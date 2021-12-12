@@ -1,7 +1,9 @@
 # Auto Correct Project
 Auto Correction project that fix worng word to best right word
 
-![](file:///C:/Users/future/Pictures/Screenshots/Screenshot%20(169).png)
+# Image for Output 
+
+![](https://raw.githubusercontent.com/AhmedMagdy231/AutoCorrectProject2/master/images/Screenshot%20(200).png)
 
 
 
