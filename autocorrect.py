@@ -62,13 +62,12 @@ class AutoCorrection:
             for w2 in self.__transform(w):
                 edit_two_set.add(w2)
 
+
         return edit_two_set
 
 
     def get_correct(self,word):
         invocab = self.vocab.intersection([word])
-        print((invocab))
-        print('_________________________________________________________________________________________________')
         edit_1 = self.vocab.intersection(self.__edit_one_mistake(word))
         edit_2 = self.vocab.intersection(self.__edit_two_mistake(word))
 

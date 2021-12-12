@@ -22,6 +22,7 @@ AC = AutoCorrection(word_l,letters)
 
 
 while True:
+    print('____________________________________________________________________')
     sentence = input('Please Enter Your Sentence : ')
     words = sentence.split()
     corrected = []
@@ -34,5 +35,6 @@ while True:
 
 
     print(f'sentence after edit is : '+' '.join(corrected))
+
 
 
