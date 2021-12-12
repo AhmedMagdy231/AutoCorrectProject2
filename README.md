@@ -1,23 +1,8 @@
 # Auto Correct Project
 Auto Correction project that fix worng word to best right word
 
+![](https://images.ctfassets.net/hrltx12pl8hq/61DiwECVps74bWazF88Cy9/2cc9411d050b8ca50530cf97b3e51c96/Image_Cover.jpg?fit=fill&w=480&h=270)
 
-naive@bayes:~/autocorrect$ python3 ar_autocorrect.py
-corpus with 9203724 words
-write your sentence:
-بيفول ان الكلام قارع
-suggestion for wordبيفول is بيقول
-suggestion for wordان is ان
-suggestion for wordالكلام is الكلام
-suggestion for wordقارع is قارع
-بيقول ان الكلام قارع
-write your sentence:
-النعلم هو امتل استثماز
-suggestion for wordالنعلم is العلم
-suggestion for wordهو is هو
-suggestion for wordامتل is احتل
-suggestion for wordاستثماز is استثمار
-العلم هو احتل استثمار
 
 
 
